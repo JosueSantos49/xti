@@ -1,0 +1,4 @@
+Joana;12000.23
+Bruna;11050.32
+Sandra;18000.21
+Beatriz;23200.09

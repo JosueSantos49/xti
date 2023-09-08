@@ -1,0 +1,5 @@
+Comando que podem ser usados no texto do objeto no java (caractere de scape)
+\t tabulação
+\" representa aspas duplas
+\\ representa barra
+\n quebra de linha
